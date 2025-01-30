@@ -11,7 +11,6 @@ Features:
 
 Dataset:
 EMNIST (Extended MNIST): A dataset containing handwritten characters and digits.
-Download from: https://www.nist.gov/itl/products-and-services/emnist-dataset
 
 Results
 Performance comparison of all models on EMNIST dataset
